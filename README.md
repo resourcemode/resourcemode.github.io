@@ -1,6 +1,3 @@
 Resource Mode Website
 ==================
 
-Details
------------
-
